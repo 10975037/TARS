@@ -1,0 +1,11 @@
+build/*
+dist/*
+tests/*
+tars.egg-info/*
+*.pyc
+*.pkl
+*.swp
+test.py
+tars.pkl
+QR.jpg
+.DS_Store
